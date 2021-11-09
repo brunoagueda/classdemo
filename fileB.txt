@@ -1,2 +1,3 @@
 esse é o arquivo B
 outra alteração 2
+outra alteração 3
